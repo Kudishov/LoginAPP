@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginAPP</string>
+    <string name="login">Login</string>
+    <string name="enter">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="pass">Пароль</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="errorLogin">Минимальная длина логина - 4 символа</string>
+    <string name="errorPass">Минимальная длина пароля - 4 символа</string>
+    <string name="hello">Привет</string>
+</resources>
